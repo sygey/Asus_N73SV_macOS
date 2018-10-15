@@ -30,6 +30,7 @@ STEP 3 Install Clover Bootloader on USB
 1.Download Clover bootloader from internet, and install with settings from screenshots down below.
 2.Replace your Clover folder from EFI with mine;  INSTALL USB ASUS N73SV CLOVER MOJAVE 
 
+
 STEP 4: Recommended BIOS Settings in general
 
 If you're installing on a recommended CustoMac desktop with AMI UEFI BIOS, the options are simple. For other systems make sure to set your BIOS to Optimized Defaults, and your hard drive to AHCI mode.
@@ -72,6 +73,7 @@ All you need to do is boot from the USB drive and install! Insert the USB in a U
 
 
 STEP 6: Post Installation
+ 
  The installation is complete, but the drive isn't bootable yet. Boot from the USB again, this time choosing macOS Mojave.
 1. Press the hotkey to choose boot device (F12 for Gigabyte motherboards, F8 for ASUS motherboards, F11 for ASrock motherboards)
 2. Choose USB
