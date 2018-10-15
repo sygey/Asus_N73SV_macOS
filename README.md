@@ -86,4 +86,6 @@ STEP 6: Post Installation
 9. Fix Wifi Atheros AR9285, download AirPortAtheros40.kext zip  from down below, and install the kext in S/L/E.   ( kext its clean, extracted from macOS High Sierra image)  
 10. Reboot
 
+Nvidia GeForce 540M not working! (Optimus not suported)
+
       You are done.. installation is complete, you have a full functional  MacBook Pro - Asus N73SV !
