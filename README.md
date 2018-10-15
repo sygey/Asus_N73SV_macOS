@@ -87,5 +87,6 @@ STEP 6: Post Installation
 10. Reboot
 
 Nvidia GeForce 540M not working! (Optimus not suported)
+This Files work also with macOs Sierra and High Sierra! just you don,t need the fixes for wifi and intelHD3000!
 
       You are done.. installation is complete, you have a full functional  MacBook Pro - Asus N73SV !
